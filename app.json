@@ -1,5 +1,5 @@
 {
-    "name": "Branded-Userbot",
+    "name": "NOBI-Userbot",
     "description": "Branded-Userbot is an advanced & powerful multi-featured Telegram userbot.",
     "logo": "https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/WCGKING/KINGUSERBOT",
+    "repository": "https://github.com/tu-mera-dusman/KYA-KAHU",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -27,7 +27,7 @@
             "required": true
         },
         "STRING_SESSION": {
-            "description": "Enter your pyrogram v2 string session here @BRANDEDSTRINGSESSION_BOT.",
+            "description": "Enter your pyrogram v2 string session here",
             "value": "",
             "required": true
         },
