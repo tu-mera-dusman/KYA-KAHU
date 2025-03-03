@@ -26,7 +26,7 @@ Branded Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [- ♔ 𝐒 𝐇 𝐈 𝐕 𝐀 𝐍 𝐆 🜲 ˹ 𝐎ᴘ ˼﹛🇨🇦﹜≈ 💸](https://t.me/shivang_mishra_op).**
+🌷Powered By : [𝐍ᴏʙɪᴛꫝ вᴏᴛ 𝐌ꫝкєя 🚬™'˼﹛🇨🇦﹜≈ 💸](https://t.me/+U5dU8LAc7ho4MTU1).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -47,7 +47,7 @@ Branded Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [- ♔ 𝐒 𝐇 𝐈 𝐕 𝐀 𝐍 𝐆 🜲 ˹ 𝐎ᴘ ˼﹛🇨🇦﹜≈ 💸](https://t.me/shivang_mishra_op)..**""",
+🌷Powered By : [𝐍ᴏʙɪᴛꫝ вᴏᴛ 𝐌ꫝкєя 🚬™'˼˼﹛🇨🇦﹜≈ 💸](https://t.me/+U5dU8LAc7ho4MTU1)..**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
